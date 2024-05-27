@@ -1,0 +1,5 @@
+version: 1.0.0
+codeOwners:
+  - tea-user-address-1
+  - tea-user-address-2
+quorum: 2
